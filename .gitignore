@@ -28,6 +28,8 @@ assets/js/dist
 
 #draft
 _drafts/
+draft/
+drafts/
 
 #obsidian
 templates/
