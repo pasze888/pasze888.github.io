@@ -46,7 +46,7 @@ tags:
 
 ## 三、排查：用 ssh -vT 找到核心原因
 
-参考 GitHub 官方文档[^footnote]，用 `ssh -vT` 查看详细的认证日志，定位问题：
+参考 GitHub 官方文档[^1]，用 `ssh -vT` 查看详细的认证日志，定位问题：
 
 ```bash
 ssh -vT git@github.com
@@ -144,4 +144,4 @@ Hi 你的GitHub用户名! You've successfully authenticated, but GitHub does not
 
 ## 参考
 
-[^footnote]: <https://docs.github.com/zh/authentication/troubleshooting-ssh/error-permission-denied-publickey>
+[^1]: <https://docs.github.com/zh/authentication/troubleshooting-ssh/error-permission-denied-publickey>
