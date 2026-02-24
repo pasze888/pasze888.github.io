@@ -6,7 +6,12 @@ author: pasze
 date: 2026-02-24 09:56:05   +0800
 image:
 category:
-tags:#linux #fedora #hmcl #minecraft #nvidia
+tags:#
+- linux 
+- fedora 
+- hmcl 
+- minecraft 
+- nvidia
 ---
 ## HMCL 添加环境变量
 
