@@ -6,7 +6,7 @@ author: pasze
 date: 2026-02-24 09:56:05   +0800
 image:
 category:
-tags:#
+tags:
 - linux 
 - fedora 
 - hmcl 
